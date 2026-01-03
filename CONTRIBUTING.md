@@ -1,1 +1,57 @@
-# Contributing to NEXUM Thank you for your interest in NEXUM. NEXUM is currently in an early development stage and is primarily developed by a single maintainer. At this phase, the project is **not open for external code contributions yet**. This is intentional. The core architecture, security model, and isolation mechanisms need to be stabilized before accepting third-party code. --- ## How You Can Help Right Now Even at this early stage, contributions are welcome in other forms: - Providing feedback or suggestions via GitHub Issues - Reporting bugs or unexpected behavior (when builds become available) - Discussing architecture and threat models - Starring the repository to follow progress Thoughtful discussions are highly valued. --- ## Future Contributions Once the core engine reaches a stable state: - Contribution guidelines will be published - Code contributions will be reviewed carefully with a security-first mindset - Larger changes will require design discussion before implementation The goal is to keep the project clean, auditable, and understandable. --- ## Code of Conduct All interactions are expected to be respectful and constructive. Security research, critical feedback, and technical discussion are welcome — personal attacks, pressure, or hype-driven requests are not. --- ## Transparency NEXUM aims to remain transparent about: - What is implemented - What is planned - What is intentionally out of scope If something is not ready, it will be stated clearly. Thank you for your patience and interest.
+# Contributing to NEXUM
+
+Thank you for your interest in NEXUM.
+
+NEXUM is currently in an early development stage and is primarily developed by a single maintainer.  
+At this phase, the project is **not open for external code contributions yet**.
+
+This is intentional.
+
+The core architecture, security model, and isolation mechanisms need to be stabilized before accepting third-party code.
+
+---
+
+## How You Can Help Right Now
+
+Even at this early stage, contributions are welcome in other forms:
+
+- Providing feedback or suggestions via GitHub Issues
+- Reporting bugs or unexpected behavior (when builds become available)
+- Discussing architecture and threat models
+- Starring the repository to follow progress
+
+Thoughtful discussions are highly valued.
+
+---
+
+## Future Contributions
+
+Once the core engine reaches a stable state:
+
+- Contribution guidelines will be published
+- Code contributions will be reviewed carefully with a security-first mindset
+- Larger changes will require design discussion before implementation
+
+The goal is to keep the project clean, auditable, and understandable.
+
+---
+
+## Code of Conduct
+
+All interactions are expected to be respectful and constructive.
+
+Security research, critical feedback, and technical discussion are welcome  
+— personal attacks, pressure, or hype-driven requests are not.
+
+---
+
+## Transparency
+
+NEXUM aims to remain transparent about:
+- What is implemented
+- What is planned
+- What is intentionally out of scope
+
+If something is not ready, it will be stated clearly.
+
+Thank you for your patience and interest.
