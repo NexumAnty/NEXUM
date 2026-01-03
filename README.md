@@ -137,3 +137,11 @@ You are free to use, study, and build on top of this project.
 - Documentation (planned)
 
 ⭐ Star the repository to follow development progress.
+
+## Documentation
+
+- 📐 [Architecture Overview](docs/architecture.md)
+- 🛡️ [Threat Model](docs/threat-model.md)
+- 🗺️ [Roadmap](ROADMAP.md)
+- 🔐 [Security Policy](SECURITY.md)
+
