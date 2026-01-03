@@ -10,15 +10,15 @@ Timelines may change as security and architecture take priority.
 - [x] Privacy & security principles
 
 ## Phase 1 — Core Engine (in progress)
-- [ ] Browser engine selection & customization
-- [ ] Profile isolation model
+- [x] Browser engine selection & customization
+- [x] Profile isolation model
 - [ ] Fingerprint stabilization layer
 - [ ] Proxy abstraction layer
 - [ ] Local encrypted storage
 
 ## Phase 2 — Control Layer
-- [ ] Profile manager UI
-- [ ] Fingerprint configuration UI
+- [x] Profile manager UI
+- [x] Fingerprint configuration UI
 - [ ] Proxy manager
 - [ ] Session lifecycle management
 
