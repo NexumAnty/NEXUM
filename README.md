@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/NexumDash.png" alt="NEXUM Preview" width="800" style="border-radius:50%">
+  <img src="assets/NexumDashboard.png" alt="NEXUM Preview" width="800" style="border-radius:50%">
 </p>
 
 
