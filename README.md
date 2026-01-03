@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/NexumDash.png" alt="NEXUM Preview" width="800">
+</p>
+
+
 # NEXUM Anti-Detection Browser
 
 Privacy-first anti-detection browser focused on isolation, control, and transparency.  
