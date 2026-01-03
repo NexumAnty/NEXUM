@@ -57,12 +57,12 @@ Just controlled, isolated, deterministic browser environments.
 ### Phase 1 — Core (in progress)
 - [x] Project architecture design
 - [x] Security & threat model definition
-- [ ] Browser core prototype
+- [x] Browser core prototype
 - [ ] Profile isolation layer
 - [ ] Local encrypted storage
 
 ### Phase 2 — Usability
-- [ ] UI / profile manager
+- [x] UI / profile manager
 - [ ] Proxy manager
 - [ ] Fingerprint configuration
 - [ ] Session monitoring
